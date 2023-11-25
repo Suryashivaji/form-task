@@ -1,0 +1,22 @@
+body
+{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+
+}
+.container{
+  max-width: 700px;
+  width: 100%;
+  background-color: whitesmoke;
+  padding: 25px 30px;
+  border-radius: 10px;
+}
+button{
+  height: 100%;
+  width: 50%;
+  outline: none;
+  
+  justify-content: center;
+}
